@@ -1,0 +1,11 @@
+body{
+	background-image: url("images/bg.png");
+}
+
+.container{
+	width: 30%;
+	margin-top: 9%;
+	box-shadow: 0 3px 20px skyblue;
+	padding: 45px;
+	background-color: #fff;
+}
